@@ -1,8 +1,11 @@
 {
-    "activeWallet": "0xfa9c61f7738962c40eec13d677b93735dfe99b1a",
-    "agents": {
-        "0xfa9c61f7738962c40eec13d677b93735dfe99b1a": {
-            "id": "019e9392-b91c-75fe-bb14-a12e8ffb7561"
-        }
+  "activeWallet": "0xfa9c61f7738962c40eec13d677b93735dfe99b1a",
+  "agents": {
+    "0xfa9c61f7738962c40eec13d677b93735dfe99b1a": {
+      "id": "019e9392-b91c-75fe-bb14-a12e8ffb7561",
+      "publicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEC7ZtTd7lXX/kTSSkiCTI9gHsJfCWV7n8jGf77vua1cPftPHw6p/8qmfW4MrAXm1CMWbgCUorz111wqJP1wqbYg==",
+      "walletId": "lnmaf6l3z8ez3z6s8o6p2rs3",
+      "builderCode": "bc_nezhmwdp"
     }
+  }
 }

@@ -253,6 +253,6 @@ async def opportunity_scan(request: Request):
 if __name__ == "__main__":
     import uvicorn
 
-    port = int(os.environ.get("X402_PORT", "8402"))
+    port = int(os.environ.get("X402_PORT", "8403"))
     print(f"ArewaOS x402 Server starting on port {port}")
     uvicorn.run("server:app", host="0.0.0.0", port=port, reload=True)
