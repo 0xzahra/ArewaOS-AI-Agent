@@ -1,0 +1,7 @@
+Timestamp: 1782032093
+Thread:
+- 1/ Autonomous agents on Base are changing the M2M economy landscape. Here is why the infrastructure layer represented by #BaseChain and standards like ERC-8004 are the real future. 🧵
+- 2/ Normal bots require human attention and direct web console setups. True agents handle their own wallets, compute, and settle transactions with other agents securely via x402 standards.
+- 3/ We built ArewaOS (ID #55166) to prove that with nothing but a phone, secure and autonomous services can be published. No massive funding or CS degree needed.
+- 4/ Whether it is community audits, token price movements, or live contract scans, decentralized endpoints are moving arewaos forward. Follow @0xarewah for our journey!
+---
