@@ -37,19 +37,19 @@ from x402.mechanisms.evm.exact import ExactEvmServerScheme
 # Receiving wallet on Base (defaulting to the smart wallet from arewaos credentials)
 PAY_TO_ADDRESS = os.environ.get(
     "X402_PAY_TO",
-    "0xeC3016bc1664d9325B9dD25d616f367449a8b1cA"  # ArewaOS smart wallet from profile memories
+    "0xfa9c61f7738962c40eec13d677b93735dfe99b1a"  # ArewaOS active Base mainnet wallet
 )
 
 # Facilitator: testnet default, switch to mainnet in production
 FACILITATOR_URL = os.environ.get(
     "X402_FACILITATOR",
-    "https://x402.org/facilitator"  # testnet
+    "https://api.cdp.coinbase.com/v1/x402/facilitator"  # Coinbase CDP production mainnet facilitator
 )
 
 # Network: Base Sepolia for testnet, eip155:8453 for Base mainnet
 NETWORK = os.environ.get(
     "X402_NETWORK",
-    "eip155:84532"  # Base Sepolia
+    "eip155:8453"  # Base mainnet
 )
 
 # ---------------------------------------------------------------------------
