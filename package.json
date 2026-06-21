@@ -1,0 +1,47 @@
+{
+  "name": "arewaos-ai-agent",
+  "version": "1.0.0",
+  "description": "Multi-platform AI agent with voice processing, GitHub automation, skill management, and agent creation capabilities. Built on Base by arewa.base.eth.",
+  "main": "src/server.js",
+  "type": "module",
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test tests/",
+    "healthcheck": "curl -f http://localhost:3000/health || exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "grammy": "^1.30.0",
+    "discord.js": "^14.16.0",
+    "@slack/bolt": "^3.22.0",
+    "openai": "^4.73.0",
+    "@octokit/rest": "^21.0.0",
+    "dotenv": "^16.4.0",
+    "cors": "^2.8.5",
+    "helmet": "^8.0.0"
+  },
+  "devDependencies": {
+    "node-fetch": "^3.3.0"
+  },
+  "keywords": [
+    "ai-agent",
+    "web3",
+    "base",
+    "virtuals",
+    "telegram-bot",
+    "discord-bot",
+    "slack-bot",
+    "narrative-engineering",
+    "marketing-intelligence"
+  ],
+  "author": "Zahra Usman (@0xarewah)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xzahra/ArewaOS-AI-Agent"
+  }
+}
