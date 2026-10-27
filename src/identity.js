@@ -7,12 +7,12 @@
 export const AGENT = {
   name: 'ArewaOS',
   handle: '@ArewaOS26',
-  builder: 'Zahra Usman',
+  builder: '0xarewah',
   builderHandle: '@0xarewah',
-  origin: 'Kano, Nigeria',
+  origin: 'Remote',
   chain: 'Base',
   token: '0x8d7325df3bb160c259ed31aec0a5b385d1a7ed6c',
-  tagline: 'Web3 marketing intelligence. Built from Kano, not a lab.',
+  tagline: 'Web3 marketing intelligence. Built by 0xarewah, not a lab.',
   version: '1.0.0',
 };
 

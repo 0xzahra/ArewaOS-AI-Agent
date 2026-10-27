@@ -1,8 +1,8 @@
 # 🌍 ArewaOS AI Agent
 
-**Web3 marketing intelligence. Built from Kano, not a lab.**
+**Web3 marketing intelligence. Built by 0xarewah, not a lab.**
 
-Seven-layer AI agent built on Base by [Zahra Usman](https://x.com/0xarewah) — a non-developer builder from Kano, Nigeria.
+Seven-layer AI agent built on Base by [0xarewah](https://x.com/0xarewah) — a non-developer builder.
 
 [![Base](https://img.shields.io/badge/Chain-Base-blue)](https://base.org)
 [![Virtuals](https://img.shields.io/badge/Platform-Virtuals-purple)](https://virtuals.io)
@@ -198,7 +198,7 @@ ArewaOS-AI-Agent/
 
 ## 👤 Builder
 
-**Zahra Usman** — Non-developer, Zoology graduate from Kano, Nigeria.
+**0xarewah** — Non-developer builder.
 
 Built this entire agent from a phone. No laptop. No CS degree. No big capital.
 
@@ -233,4 +233,4 @@ MIT — see [LICENSE](LICENSE)
 
 ---
 
-*No perfect background. No polished story. Just real work from Kano, Nigeria.*
+*No perfect background. No polished story. Just real work.*
